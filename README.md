@@ -42,11 +42,15 @@
 
 ## Variable Importance
 
+The variable importance plot shows the relative importance of the most important variables in the model.
+
 <img src = '../main/Data & Images/varimp_plot.png'>
 
 <img src = '../main/Data & Images/varimp_heatmap.png'>
 
 ## SHAP Summary
+
+SHAP summary plot shows the contribution of the features for each instance (row of data). The sum of the feature contributions and the bias term is equal to the raw prediction of the model, i.e., prediction before applying inverse link function.
 
 <img src = '../main/Data & Images/shap_summary.png'>
 
