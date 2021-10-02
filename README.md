@@ -1,4 +1,4 @@
-# Bank Enrollment Classification with Automatic Machine Learning with H2O AutoML
+# Bank Term Deposit Marketing Strategy with Automatic Machine Learning H2OAutoML
 
 
 <img src = '../main/Data & Images/df.png' height='55%' width='55%'>
