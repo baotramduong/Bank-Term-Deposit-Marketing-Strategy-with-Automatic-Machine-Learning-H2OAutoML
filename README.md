@@ -19,7 +19,8 @@
 <img src = '../main/Data & Images/leaderboard.png'>
 
 **ModelMetricsBinomialGLM: stackedensemble**
-** Reported on train data. **
+
+**Reported on train data.**
 
 * MSE: 0.0352567959965488
 * RMSE: 0.18776793122508648
@@ -34,6 +35,20 @@
 * Gini: 0.9676302069910867
 
 <img src = '../main/Data & Images/cm.png'>
+
+### Correlation Between Models
+
+<img src = '../main/Data & Images/model_correlation_heatmap.png'>
+
+## Variable Importance
+
+<img src = '../main/Data & Images/varimp_plot.png'>
+
+<img src = '../main/Data & Images/varimp_heatmap.png'>
+
+## SHAP Summary
+
+<img src = '../main/Data & Images/shap_summary.png'>
 
 ## Partial Dependence Plots
 
