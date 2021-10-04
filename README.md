@@ -90,8 +90,16 @@ Partial dependence plot (PDP) gives a graphical depiction of the marginal effect
 
 <img src = '../main/Data & Images/stacked_pdp_previous.png'>
 
+## Summary of Finding
+
+* Customers over 60 are more likely to invest in term deposit.
+
 ## Reference
 
 Brownlee, J. (2021, April 26). Stacking Ensemble Machine Learning with Python. Machine Learning Mastery. Retrieved October 1, 2021, from https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/.
 
+Chen, J. (2021, April 29). Term deposit definition. Investopedia. Retrieved October 2, 2021, from https://www.investopedia.com/terms/t/termdeposit.asp#:~:text=A%20term%20deposit%20is%20a,levels%20of%20required%20minimum%20deposits.
+
 Kekre, S. (n.d.) Automatic Machine Learning with H2O AutoML and Python [MOOC]. Coursera. https://www.coursera.org/projects/automatic-machine-learning-h2o-automl-python.
+
+Molnar, C. (2020). 8.1 Partial Dependence Plot (PDP). In Interpretable machine learning: A guide for making Black Box models explainable. Leanpub. 2019.
