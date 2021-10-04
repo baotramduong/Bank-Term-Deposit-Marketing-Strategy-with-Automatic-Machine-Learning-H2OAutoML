@@ -36,9 +36,13 @@
 
 <img src = '../main/Data & Images/cm.png'>
 
-### Correlation Between Models
+## Correlation Between Models
 
 <img src = '../main/Data & Images/model_correlation_heatmap.png'>
+
+## Learning Curve
+
+<img src = '../main/Data & Images/learning_curve_plot.png'>
 
 ## Variable Importance
 
