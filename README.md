@@ -6,7 +6,13 @@
 
 ## Introduction
 
+In this project, we will identify the  characteristics of customers who more likely to respond and commit to a term deposit and use Automatic Machine Learning H2O AutoML to make prediction on whether or not a certain customer would buy a term deposit. We will also use Explainable AI (XAI) methods such as Variable Importance Plot, Partial Dependence Plot, and SHAP Summary Plot to explain how each of our feature input affects our model prediction.
+
 ## Data Source
+
+Data comes from [UCI Machine Learning Repository Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing). 
+
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. There are 45,211 samples and 17 features, from May 2008 - November 2010.
 
 <img src = '../main/Data & Images/df.png'>
 
