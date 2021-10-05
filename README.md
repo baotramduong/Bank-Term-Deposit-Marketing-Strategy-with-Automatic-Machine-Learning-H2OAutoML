@@ -100,10 +100,6 @@ Partial dependence plot (PDP) gives a graphical depiction of the marginal effect
 
 <img src = '../main/Data & Images/stacked_pdp_previous.png'>
 
-## Summary of Finding
-
-* Customers over 60 are more likely to invest in term deposit.
-
 ## Reference
 
 Brownlee, J. (2021, April 26). Stacking Ensemble Machine Learning with Python. Machine Learning Mastery. Retrieved October 1, 2021, from https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/.
